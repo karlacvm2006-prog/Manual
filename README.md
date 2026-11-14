@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Manual de Usuario | Mantenimiento Preventivo y Correctivo — Karla</title>
+    <title>Manual de Usuario | Mantenimiento Preventivo y Correctivo </title>
     <!-- Tailwind CSS -->
     <script src="https://cdn.tailwindcss.com"></script>
     <!-- Google Fonts: Plus Jakarta Sans e Inter -->
@@ -415,13 +415,13 @@
     <footer class="bg-white border-t border-stone-200 py-8 mt-8">
         <div class="max-w-6xl mx-auto px-4 sm:px-6 flex flex-col sm:flex-row items-center justify-between gap-4 text-center sm:text-left">
             <div>
-                <p class="font-display font-bold text-brand-ink text-sm">Manual de Usuario: Mantenimiento Preventivo y Correctivo</p>
-                <p class="text-xs text-stone-500 mt-0.5">Guía práctica para Laptops y Computadoras de Escritorio • Elaborado por <strong>Karla</strong></p>
-            </div>
-            <a href="#inicio" class="px-4 py-2 rounded-xl bg-stone-100 hover:bg-stone-200 text-xs font-bold text-brand-ink transition">
-                ↑ Volver arriba
-            </a>
-        </div>
+        <p class="font-display font-bold text-brand-ink text-sm">Karla Venero · C.I: 31.742.599</p>
+        <p class="text-xs text-stone-500 mt-0.5">Asignatura: Sistemas Operativos · Manual de Usuario · Mantenimiento Preventivo y Correctivo</p>
+    </div>
+    <a href="#inicio" class="px-4 py-2 rounded-xl bg-stone-100 hover:bg-stone-200 text-xs font-bold text-brand-ink transition">
+        ↑ Volver arriba
+    </a>
+</div>
     </footer>
 
     <!-- ===================================================================== -->
